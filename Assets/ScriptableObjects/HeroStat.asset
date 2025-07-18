@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0041a7f57bcfe7448c465d51a28b47c, type: 3}
   m_Name: HeroStat
   m_EditorClassIdentifier: 
-  maxHP: 500
+  maxHP: 150
   damage: 50
   armor: 5
